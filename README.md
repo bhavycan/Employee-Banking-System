@@ -16,6 +16,9 @@ For connecting our application with the Oracle SQL database I used the Oracle C+
 ## First Menu:
 ![image](https://user-images.githubusercontent.com/94931828/207785811-8e3b8c18-8718-40c3-bb0c-addabd851ac5.png)
 
+## Validating Customer:
+![image](https://user-images.githubusercontent.com/94931828/207788038-bc95b238-4210-486e-977b-91f5c5ae34ae.png)
+
 ## Select Customer by Id:
 ![image](https://user-images.githubusercontent.com/94931828/207786046-9c40066c-c696-4ed9-a41f-c450a4511dc7.png)
 
