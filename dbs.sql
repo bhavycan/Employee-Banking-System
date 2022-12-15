@@ -1,18 +1,3 @@
-/***************************************************************************************************************/
-
--- Group 14 :Online Banking System
--- Members :
--- Name: Jay Chaudhari Email: jpchaudhari@myseneca.ca			  Student Id: 147268205
--- Name: Bhavy Patel   Email: bppatel16@myseneca.ca			  Student Id: 121048219
--- Name:Yash Shah		Email: yvshah@myseneca.ca			      Student Id: 103985214
--- Milestone 2
--- DATE: 02-04-2022
-
--- We have done all the parts of the project by ourseleves. The linking of data is done by us 
--- by doing the group discussion on MS team. The table creation and the maker of it is shown below.
-
-/*******************************************************************************************/
-
 
 
 SET AUTOCOMMIT ON;
@@ -29,7 +14,7 @@ CREATE TABLE  branch(
 
 /***************************************************************************************************************/
 
-/*employee Table: done by Jay chaudhari*/
+/*employee Table: */
 CREATE TABLE employee(
     employee_id INT NOT NULL,
     employee_name  VARCHAR(20) NOT NULL, 
@@ -40,7 +25,7 @@ CREATE TABLE employee(
 
 /***************************************************************************************************************/ 
 
-/*checkingaccount Table: done by Bhavy Patel*/
+/*checkingaccount Table: */
 CREATE TABLE checkingaccount(
     account_number INT NOT NULL,
     interest_rate INT NOT NULL,
@@ -52,7 +37,7 @@ CREATE TABLE checkingaccount(
 
 /***************************************************************************************************************/
 
-/*savingaccount Table: done by Yash shah*/
+/*savingaccount Table: */
 CREATE TABLE savingaccount(
     account_number INT NOT NULL,
     interest_rate INT NOT NULL,
@@ -64,7 +49,7 @@ CREATE TABLE savingaccount(
 
 /***************************************************************************************************************/
 
-/*account Table: done by Bhavy Patel*/
+/*account Table: */
 CREATE TABLE account(
     account_number INT NOT NULL,
     account_balance VARCHAR2(15),
@@ -77,7 +62,7 @@ CREATE TABLE account(
 
 /***************************************************************************************************************/
 
-/*customer Table: done by Jay chaudhari */
+/*customer Table:  */
 CREATE TABLE customer(
     customer_id  INT NOT NULL,
     customer_FName VARCHAR2(20) NOT NULL,
