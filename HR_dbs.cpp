@@ -1,14 +1,4 @@
-/******************************************************************************************
 
-Group 14 :Online Banking System
-Members :
-Name: Jay Chaudhari Email: jpchaudhari@myseneca.ca			  Student Id: 147268205
-Name: Bhavy Patel   Email: bppatel16@myseneca.ca			  Student Id: 121048219
-Name:Yash Shah		Email: yvshah@myseneca.ca			      Student Id: 103985214
-Milestone 2
-DATE: 02-04-2022
-
-*******************************************************************************************/
 
 #include<iostream>
 #include<iomanip>
